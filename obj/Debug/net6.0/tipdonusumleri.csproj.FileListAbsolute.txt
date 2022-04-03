@@ -1,0 +1,15 @@
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/bin/Debug/net6.0/tipdonusumleri
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/bin/Debug/net6.0/tipdonusumleri.deps.json
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/bin/Debug/net6.0/tipdonusumleri.runtimeconfig.json
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/bin/Debug/net6.0/tipdonusumleri.dll
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/bin/Debug/net6.0/tipdonusumleri.pdb
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.csproj.CoreCompileInputs.cache
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.dll
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/refint/tipdonusumleri.dll
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.pdb
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/tipdonusumleri.genruntimeconfig.cache
+/Users/ilginarpaci1/Documents/sites/tipdonusumleri/obj/Debug/net6.0/ref/tipdonusumleri.dll
